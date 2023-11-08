@@ -1,0 +1,9 @@
+django
+channels
+channels_redis
+djangorestframework
+django-cors-headers
+dj-rest-auth[with_social]
+redis
+python-dotenv==1.0.0
+djangorestframework-simplejwt
